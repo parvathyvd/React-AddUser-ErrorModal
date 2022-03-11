@@ -1,0 +1,14 @@
+.user{
+    width: 100%;
+    margin: 1rem auto;
+    background-color: rgb(255, 255, 255);
+    padding: 3rem 1rem;
+    border-radius: 10px;
+    box-shadow: 2px 3px 9px rgb(185, 185, 185);
+}
+
+h3{
+    text-align: center;
+    font-size: 1.5rem;
+    text-transform: capitalize;
+}
